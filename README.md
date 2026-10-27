@@ -66,4 +66,29 @@ FrostBot currently uses an older version of Discord.js. Setup instructions may c
 
 - Keep your Discord bot token private.
 - Never commit bot tokens, passwords or other secrets.
-- Back up
+- Back up your JSON data files before making changes.
+- Do not publish private configuration files.
+
+## 🗺️ Roadmap
+
+- [ ] Modernise Discord.js and Node.js dependencies.
+- [ ] Update commands and event handlers for compatibility.
+- [ ] Review and improve the economy and levelling systems.
+- [ ] Improve error handling and data persistence.
+- [ ] Refresh the website.
+- [ ] Publish a new release after testing.
+
+## 📜 License
+
+This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for details.
+
+## 👨‍💻 Author
+
+**FrostedWeFall**
+
+- GitHub: [@FrostedWeFall](https://github.com/FrostedWeFall)
+- Twitter/X: [@FrostDiscord](https://twitter.com/FrostDiscord)
+
+---
+
+*FrostBot V2 — the next chapter of Frost.* ❄️
